@@ -32,11 +32,8 @@ sidebar: false
 -   <router-link to="/installing-pangu7">Installing Pangu7</router-link>
 -   <router-link to="/using-lyncis">Using Lyncis</router-link>
 -   <router-link to="/installing-evasi0n7">Installing evasi0n7</router-link>
--   <router-link to="/installing-p0sixspwn">Installing p0sixspwn</router-link>
--   <router-link to="/installing-evasi0n6">Installing evasi0n6</router-link>
--   <router-link to="/installing-g1lbertjb">Installing g1lbertJB</router-link>
+-   <router-link to="/installing-aquila">Installing Aquila</router-link>
 -   <router-link to="/installing-pwnagetool">Installing PwnageTool</router-link>
--   <router-link to="/installing-absinthe">Installing Absinthe</router-link>
 -   <router-link to="/installing-limera1n">Installing limera1n</router-link>
 -   <router-link to="/using-jailbreakme-saffron">Using JailbreakMe Saffron</router-link>
 -   <router-link to="/installing-greenpois0n">Installing greenpois0n</router-link>
@@ -54,6 +51,8 @@ sidebar: false
 -   <router-link to="/installing-libertv">Installing LiberTV</router-link>
 -   <router-link to="/installing-blackb0x">Installing blackb0x</router-link>
 -   <router-link to="/using-checkm8-a5">Using checkm8-a5</router-link>
+-   <router-link to="/installing-evasi0n6">Installing evasi0n6</router-link>
+-   <router-link to="/installing-p0sixspwn">Installing p0sixspwn</router-link>
 -   <router-link to="/installing-patchstick">Installing Patchstick</router-link>
 
 ## Other Jailbreaks/Methods
@@ -77,6 +76,8 @@ sidebar: false
 -   <router-link to="/installing-pangu933">Installing Pangu933</router-link>
 -   <router-link to="/installing-etasonjb">Installing EtasonJB</router-link>
 -   <router-link to="/installing-daibutsu">Installing daibutsu</router-link>
+-   <router-link to="/installing-g1lbertjb">Installing g1lbertJB</router-link>
+-   <router-link to="/installing-absinthe">Installing Absinthe</router-link>
 
 ## Miscellaneous
 
